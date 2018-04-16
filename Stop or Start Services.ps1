@@ -1,5 +1,7 @@
 #Stop / Start script. Place the services you wish to have stopped in the services.txt file.
 #author Daniel Tran 2018
+# Git https://github.com/DanielTran93/Windows-service-stop-or-starter
+
 
 #gets the service.txt file in the same diretory as this script, splits it into rows
 $services = (Get-Content -path "services.txt") -split','
