@@ -1,0 +1,2 @@
+BTSSvc$aFUSION
+BTSSvc$BizTalkServerApplication
